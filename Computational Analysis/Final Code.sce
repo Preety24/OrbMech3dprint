@@ -1,9 +1,13 @@
 //Scilab code for Computational Analysis of Orbital Trajectories of Marbles on a 3D Printed Surface.
-//Code written by Pooja and Preety, from the
-//Orbital Mechanics Through 3D Printing Group,
+//Code written by Pooja and Preety, from the Orbital Mechanics Through 3D Printing Group,
 //Department of Physics, and D.S. Kothari Center for Research and Innovation in Science Education,
 //Miranda House, University of Delhi.
-//Undergraduate Research Project (June 2022). Code release date: January 30, 2023.
+//Undergraduate Research Project (June 2022). 
+
+//All Rights Reserved.
+
+//Code release date: January 30, 2023.
+
 //We welcome all constructive suggestions/feedback. Please reach us at 
 //orbitalmechanics3dprintinggroup_mh@googlegroups.com 
 
